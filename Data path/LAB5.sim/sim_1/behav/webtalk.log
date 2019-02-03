@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 16:48:31 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Mon Nov 12 19:09:05 2018
+# Process ID: 4520
+# Log file: /ad/eng/users/a/b/abchen/Desktop/LAB5/LAB5.sim/sim_1/behav/webtalk.log
+# Journal file: /ad/eng/users/a/b/abchen/Desktop/LAB5/LAB5.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+source /ad/eng/users/a/b/abchen/Desktop/LAB5/LAB5.sim/sim_1/behav/xsim.dir/RF_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] '/ad/eng/users/a/b/abchen/Desktop/LAB5/LAB5.sim/sim_1/behav/xsim.dir/RF_tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Mon Nov 12 19:09:06 2018. For additional details about this file, please refer to the WebTalk help file at /ad/eng/support/software/linux/all/x86_64/Xilinx/Vivado/2014.4/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Mon Nov 12 19:09:06 2018...
